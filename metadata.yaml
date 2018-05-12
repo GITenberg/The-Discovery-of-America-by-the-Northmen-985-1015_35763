@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37884'
     url: http://www.gutenberg.org/2009/agents/37884
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35763#The-Discovery-of-America-by-the-Northmen-985-1015
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-04-03'
 gutenberg_type: Text
